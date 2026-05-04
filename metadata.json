@@ -1,0 +1,8 @@
+{
+  "name": "无限画布-2026-3-28",
+  "description": "",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
